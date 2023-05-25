@@ -1,0 +1,6 @@
+// VARIABLES DEL OBJ_PALANCA
+
+
+
+
+
